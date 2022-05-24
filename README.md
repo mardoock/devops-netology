@@ -11,3 +11,4 @@ crash log files
 исключить файлы с расширениями
 _override.tf
 _override.tf.json
+insert newline
