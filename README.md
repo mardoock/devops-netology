@@ -12,4 +12,3 @@ crash log files
 _override.tf
 _override.tf.json
 change_file
-
